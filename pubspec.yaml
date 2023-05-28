@@ -1,0 +1,38 @@
+name: daily_leaves_task
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  cupertino_icons: null
+  dartz: null
+  dio: ^5.1.2
+  equatable: null
+  flutter:
+    sdk: flutter
+  flutter_bloc: null
+  get_it: null
+  internet_connection_checker: null
+  shared_preferences: null
+  flutter_svg:
+  date_format: ^2.0.7
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Bold.ttf
+        # - asset: fonts/Schyler-Italic.ttf
+          style: italic
