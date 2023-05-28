@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840.396" height="900.244" viewBox="0 0 840.396 900.244">
+  <defs>
+    <filter id="blob-2" x="0" y="0" width="840.396" height="900.244" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-opacity="0.275"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="blob-2-2" data-name="blob-2" transform="translate(48 45)">
+    <g transform="matrix(1, 0, 0, 1, -48, -45)" filter="url(#blob-2)">
+      <path id="blob-2-3" data-name="blob-2" d="M493.271-12.573c81.627,51.881,140.462,137.25,139.4,218.845-.53,81.6-61.485,159.889-128.271,208.469-67.316,49.052-140.462,68.389-208.838,84.425C226.659,515.2,162.523,528.408,103.688,515.2s-111.84-53.3-134.632-101.876c-22.262-48.58-13.781-106.593-14.841-176.868-.53-69.8-10.071-152.343,29.683-210.827S113.229-67.284,210.227-75.3,411.644-64.454,493.271-12.573Z" transform="translate(275.85 784.84) rotate(-104)" fill="#7e31db" opacity="0.413"/>
+    </g>
+  </g>
+</svg>

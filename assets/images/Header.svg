@@ -1,0 +1,19 @@
+<svg id="Header" xmlns="http://www.w3.org/2000/svg" width="428" height="50" viewBox="0 0 428 50">
+  <g id="Bars_Status_Bar_iPhone_Light" data-name="Bars/Status Bar/iPhone/Light" transform="translate(-3 0)">
+    <rect id="Bars_Status_Bar_iPhone_Light_background" data-name="Bars/Status Bar/iPhone/Light background" width="428" height="50" transform="translate(3 0)" fill="none"/>
+    <g id="Battery" transform="translate(365.537 19.783)">
+      <g id="Border" transform="translate(0 0)" fill="#1f1f1f" stroke="#fff" stroke-width="1" opacity="0.35">
+        <rect width="25.109" height="12.935" rx="2.667" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24.109" height="11.935" rx="2.167" fill="none"/>
+      </g>
+      <path id="Cap" d="M0,0V4.565A2.477,2.477,0,0,0,1.516,2.283,2.477,2.477,0,0,0,0,0" transform="translate(26.251 4.185)" fill="#1f1f1f" opacity="0.4"/>
+      <rect id="Capacity" width="20.544" height="8.37" rx="1.333" transform="translate(2.283 2.283)" fill="#1f1f1f"/>
+    </g>
+    <path id="Wifi" d="M8.5,12.449l-2.29-2.308A.352.352,0,0,1,6.1,9.877a.358.358,0,0,1,.118-.259,3.922,3.922,0,0,1,5.064,0,.359.359,0,0,1,.01.523L9,12.449a.357.357,0,0,1-.507,0Zm4.029-4.042a5.625,5.625,0,0,0-7.547,0,.355.355,0,0,1-.5-.006L3.16,7.064a.367.367,0,0,1,.005-.525,8.209,8.209,0,0,1,11.175,0,.367.367,0,0,1,.005.525L13.022,8.4a.355.355,0,0,1-.5.006ZM15.572,5.33a9.907,9.907,0,0,0-13.644,0,.352.352,0,0,1-.5,0L.107,3.991a.368.368,0,0,1,0-.522,12.494,12.494,0,0,1,17.281,0,.368.368,0,0,1,0,.522L16.069,5.326a.352.352,0,0,1-.5,0Z" transform="translate(342.33 19.78)" fill="#1f1f1f"/>
+    <path id="Cellular_Connection" data-name="Cellular Connection" d="M17.12,12.174a1.141,1.141,0,0,1-1.141-1.141V1.141A1.141,1.141,0,0,1,17.12,0h1.141A1.141,1.141,0,0,1,19.4,1.141v9.892a1.142,1.142,0,0,1-1.141,1.141Zm-5.327,0a1.142,1.142,0,0,1-1.141-1.141V3.8a1.141,1.141,0,0,1,1.141-1.141h1.142A1.141,1.141,0,0,1,14.077,3.8v7.228a1.142,1.142,0,0,1-1.141,1.141Zm-5.326,0a1.142,1.142,0,0,1-1.141-1.141V6.467A1.142,1.142,0,0,1,6.467,5.326H7.608A1.142,1.142,0,0,1,8.751,6.467v4.566a1.142,1.142,0,0,1-1.142,1.141Zm-5.326,0A1.141,1.141,0,0,1,0,11.033V8.751A1.142,1.142,0,0,1,1.141,7.608H2.282A1.142,1.142,0,0,1,3.424,8.751v2.282a1.141,1.141,0,0,1-1.141,1.141Z" transform="translate(317.221 20.164)" fill="#1f1f1f"/>
+    <g id="Time_Style" data-name="Time Style" transform="translate(9 8.37)">
+      <rect id="Bars_Status_Bar_iPhone_x_Time_-_Light_background" data-name="Bars/Status Bar/iPhone/x/Time - Light background" width="61.632" height="23.968" fill="none"/>
+      <text id="Time" transform="translate(0 7.989)" fill="#1f1f1f" font-size="15" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="16" y="12">9:41</tspan></text>
+    </g>
+  </g>
+</svg>
